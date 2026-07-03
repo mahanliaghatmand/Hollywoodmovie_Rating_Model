@@ -40,7 +40,6 @@ Hollywoodmovie_Rating_Model/
 | `director_experience` | Numeric | Years of experience / number of prior films by the director |
 | `runtime_min` | Numeric | Movie runtime in minutes |
 | `release_season` | Categorical | Season of release (e.g. Summer, Winter, Holiday) |
-| `sequel` | Binary (0/1) | Whether the movie is a sequel |
 | `Rating` | Numeric (target) | The movie's rating (1–10) — what the model predicts |
 
 ---
